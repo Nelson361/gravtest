@@ -1,4 +1,4 @@
-last_checked: 1657757642
+last_checked: 1657840834
 data:
   -
     title: 'macOS 12.0 Monterey Apache Setup: LetsEncrypt SSL'
@@ -49,4 +49,4 @@ data:
     title: 'Grav 1.7 Stable Release - One week away!'
     url: 'https://getgrav.org/blog/grav-17-stable-imminent'
     date: 1610457780
-    nicetime: '1 years ago'
+    nicetime: '2 years ago'
