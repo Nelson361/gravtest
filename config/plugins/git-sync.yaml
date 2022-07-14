@@ -1,0 +1,35 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/Nelson361/gravtest.git'
+no_user: '0'
+user: nelsonoar@gmail.com
+password: gitsync-def5020096a2953f450e5319a80516f731556cefbae00fdbf4be4bed7d80b30953a1f00d2040b150f5d94764e1f237d6cc608c97e3ea056c440292df1c3c31eb932e96854548e0d73ed93d53b2ab5de0c92d70c12ad5ed9f23de825ef9
+webhook: /_git-sync-c20354c57e93
+webhook_enabled: '0'
+webhook_secret: aee8ae19371553b840e2da01a21b11a0b0bc26cac5c2f029
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false
